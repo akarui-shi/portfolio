@@ -20,7 +20,7 @@ export default function Filmography() {
             </h2>
           </div>
           <p className="max-w-xs text-sm text-paper/60">
-            {filmography.length} проектов, 2003 — 2024. От гримёра до художника
+            {filmography.length} проектов, 2003 — 2026. От гримёра до художника
             по гриму.
           </p>
         </Reveal>

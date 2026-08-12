@@ -53,7 +53,7 @@ export const galleries: Gallery[] = [
     eyebrow: "03 — Постиж",
     title: "РАБОТА С ПОСТИЖЕМ",
     intro:
-      "Ручная работа с натуральным волосом: изготовление и наклейка усов, бород, бак, а также работа с париками.",
+      "Работа с Постижем и париками. Портретный грим.",
     subgroups: [{ label: "Усы, бороды, баки" }, { label: "Работа с париками" }],
     photos: [
       { src: "/images/postizh/postizh-1.jpg", ar: 1.333, alt: "Наклеенная борода из натурального волоса", caption: "Борода", span: "big", position: "50% 28%" },
@@ -102,9 +102,9 @@ export const galleries: Gallery[] = [
   {
     id: "hairstyles",
     eyebrow: "05 — Beauty",
-    title: "ПРИЧЁСКИ, MAKE UP",
+    title: "ОБРАЗЫ, ПРИЧЁСКИ, MAKE UP",
     intro:
-      "Причёски и макияж для съёмок: от бьюти-образов до сложных характерных укладок.",
+      "Причёски, макияж и создание характерных образов для съёмок.",
     photos: [
       { src: "/images/hairstyles/hairstyles-1.jpg", ar: 1.504, alt: "Образ с причёской и макияжем", caption: "Образ", span: "big", position: "50% 26%" },
       { src: "/images/hairstyles/hairstyles-2.jpg", ar: 1.504, alt: "Бьюти-макияж", caption: "Beauty", span: "tall", position: "50% 24%" },
@@ -123,6 +123,15 @@ export const galleries: Gallery[] = [
       { src: "/images/hairstyles/hairstyles-17.jpeg", ar: 1.23, alt: "Полный образ с макияжем", caption: "Образ", position: "50% 28%" },
       { src: "/images/hairstyles/hairstyles-18.jpeg", ar: 1.773, alt: "Гладкая собранная причёска", caption: "Укладка", span: "tall", position: "50% 24%" },
       { src: "/images/hairstyles/hairstyles-19.jpeg", ar: 1.333, alt: "Собранная причёска с локонами, вид сзади", caption: "Причёска", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-20.jpeg", ar: 1.333, alt: "Классический образ в костюме", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-21.jpeg", ar: 1.333, alt: "Характерный образ", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-22.jpeg", ar: 1.333, alt: "Характерный образ", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-23.jpeg", ar: 1.333, alt: "Характерный образ", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-24.jpeg", ar: 1.333, alt: "Образ с причёской и макияжем", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-25.jpeg", ar: 1.333, alt: "Характерный образ", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-26.jpeg", ar: 1.333, alt: "Причёска и макияж для съёмки", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-27.jpeg", ar: 1.333, alt: "Причёска и макияж для съёмки", caption: "Образ", span: "tall", position: "50% 24%" },
+      { src: "/images/hairstyles/hairstyles-28.jpeg", ar: 1.333, alt: "Причёска и макияж для съёмки", caption: "Образ", span: "tall", position: "50% 24%" },
     ],
   },
   {
