@@ -1,11 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Fully static site — exports to an `out/` folder that can be hosted
-  // anywhere (Netlify Drop, Vercel, GitHub Pages, any static host).
-  output: "export",
+  // Standard Next.js build — on Vercel this enables automatic image
+  // optimization (the hero is served as a small webp/avif instead of a
+  // multi-MB PNG). No server code is used, so pages still prerender static.
   images: {
-    // Required for static export (no server to optimize images at runtime).
-    unoptimized: true,
     dangerouslyAllowSVG: true,
   },
 };
